@@ -1,0 +1,17 @@
+/target/release/deps/bstr-62ba2e844fc3f004.rmeta: /cargo/registry/src/github.com-1ecc6299db9ec823/bstr-0.2.16/src/lib.rs /cargo/registry/src/github.com-1ecc6299db9ec823/bstr-0.2.16/src/ascii.rs /cargo/registry/src/github.com-1ecc6299db9ec823/bstr-0.2.16/src/bstr.rs /cargo/registry/src/github.com-1ecc6299db9ec823/bstr-0.2.16/src/bstring.rs /cargo/registry/src/github.com-1ecc6299db9ec823/bstr-0.2.16/src/byteset/mod.rs /cargo/registry/src/github.com-1ecc6299db9ec823/bstr-0.2.16/src/byteset/scalar.rs /cargo/registry/src/github.com-1ecc6299db9ec823/bstr-0.2.16/src/ext_slice.rs /cargo/registry/src/github.com-1ecc6299db9ec823/bstr-0.2.16/src/ext_vec.rs /cargo/registry/src/github.com-1ecc6299db9ec823/bstr-0.2.16/src/impls.rs /cargo/registry/src/github.com-1ecc6299db9ec823/bstr-0.2.16/src/io.rs /cargo/registry/src/github.com-1ecc6299db9ec823/bstr-0.2.16/src/utf8.rs
+
+/target/release/deps/libbstr-62ba2e844fc3f004.rlib: /cargo/registry/src/github.com-1ecc6299db9ec823/bstr-0.2.16/src/lib.rs /cargo/registry/src/github.com-1ecc6299db9ec823/bstr-0.2.16/src/ascii.rs /cargo/registry/src/github.com-1ecc6299db9ec823/bstr-0.2.16/src/bstr.rs /cargo/registry/src/github.com-1ecc6299db9ec823/bstr-0.2.16/src/bstring.rs /cargo/registry/src/github.com-1ecc6299db9ec823/bstr-0.2.16/src/byteset/mod.rs /cargo/registry/src/github.com-1ecc6299db9ec823/bstr-0.2.16/src/byteset/scalar.rs /cargo/registry/src/github.com-1ecc6299db9ec823/bstr-0.2.16/src/ext_slice.rs /cargo/registry/src/github.com-1ecc6299db9ec823/bstr-0.2.16/src/ext_vec.rs /cargo/registry/src/github.com-1ecc6299db9ec823/bstr-0.2.16/src/impls.rs /cargo/registry/src/github.com-1ecc6299db9ec823/bstr-0.2.16/src/io.rs /cargo/registry/src/github.com-1ecc6299db9ec823/bstr-0.2.16/src/utf8.rs
+
+/target/release/deps/bstr-62ba2e844fc3f004.d: /cargo/registry/src/github.com-1ecc6299db9ec823/bstr-0.2.16/src/lib.rs /cargo/registry/src/github.com-1ecc6299db9ec823/bstr-0.2.16/src/ascii.rs /cargo/registry/src/github.com-1ecc6299db9ec823/bstr-0.2.16/src/bstr.rs /cargo/registry/src/github.com-1ecc6299db9ec823/bstr-0.2.16/src/bstring.rs /cargo/registry/src/github.com-1ecc6299db9ec823/bstr-0.2.16/src/byteset/mod.rs /cargo/registry/src/github.com-1ecc6299db9ec823/bstr-0.2.16/src/byteset/scalar.rs /cargo/registry/src/github.com-1ecc6299db9ec823/bstr-0.2.16/src/ext_slice.rs /cargo/registry/src/github.com-1ecc6299db9ec823/bstr-0.2.16/src/ext_vec.rs /cargo/registry/src/github.com-1ecc6299db9ec823/bstr-0.2.16/src/impls.rs /cargo/registry/src/github.com-1ecc6299db9ec823/bstr-0.2.16/src/io.rs /cargo/registry/src/github.com-1ecc6299db9ec823/bstr-0.2.16/src/utf8.rs
+
+/cargo/registry/src/github.com-1ecc6299db9ec823/bstr-0.2.16/src/lib.rs:
+/cargo/registry/src/github.com-1ecc6299db9ec823/bstr-0.2.16/src/ascii.rs:
+/cargo/registry/src/github.com-1ecc6299db9ec823/bstr-0.2.16/src/bstr.rs:
+/cargo/registry/src/github.com-1ecc6299db9ec823/bstr-0.2.16/src/bstring.rs:
+/cargo/registry/src/github.com-1ecc6299db9ec823/bstr-0.2.16/src/byteset/mod.rs:
+/cargo/registry/src/github.com-1ecc6299db9ec823/bstr-0.2.16/src/byteset/scalar.rs:
+/cargo/registry/src/github.com-1ecc6299db9ec823/bstr-0.2.16/src/ext_slice.rs:
+/cargo/registry/src/github.com-1ecc6299db9ec823/bstr-0.2.16/src/ext_vec.rs:
+/cargo/registry/src/github.com-1ecc6299db9ec823/bstr-0.2.16/src/impls.rs:
+/cargo/registry/src/github.com-1ecc6299db9ec823/bstr-0.2.16/src/io.rs:
+/cargo/registry/src/github.com-1ecc6299db9ec823/bstr-0.2.16/src/utf8.rs:

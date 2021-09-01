@@ -1,0 +1,1 @@
+{"rustc":17807758859236181817,"features":"","target":0,"profile":0,"path":0,"deps":[[7113306818857637972,"build_script_build",false,13506216835073343505]],"local":[{"RerunIfChanged":{"output":"armv7-unknown-linux-gnueabihf/debug/build/rayon-core-f91f9db618201b6a/output","paths":["build.rs"]}}],"rustflags":[],"metadata":0,"config":0,"compile_kind":0}
